@@ -1,0 +1,4 @@
+local myDir="${BASH_SOURCE%/*}"
+
+source $myDir/drm_aliases.sh
+source $myDir/docker_aliases.sh
